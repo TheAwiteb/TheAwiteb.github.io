@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://4rs.nl/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="ar" xml:base="https:&#x2F;&#x2F;4rs.nl">
+    <str:translations xmlns:str="https://github.com/welpo/tabi">
+        <str:about_feeds>الخلاصة تجدها هنا، تُسمى أيضًا Atom. اشترك عبر نسخ الرابط إلى برنامج قارئ الخُلاصات الذي تستخدمه. قم بزيارة About Feeds لمعرفة المزيد والبدء. انه مجانا.</str:about_feeds>
+        <str:visit_the_site>زيارة الموقع</str:visit_the_site>
+        <str:recent_posts>المنشورات الأخيرة</str:recent_posts>
+    </str:translations><link rel="extra-stylesheet" href="https://4rs.nl/skins/monochrome.css?h=a7b3a267cdca9eae5a65" /><title>~عويتب - الذكاء الاصطناعي</title>
+        <subtitle>المكان الذي اخرج فيه ما يجول في رأسي، وأحاول أن اقدم شيء مفيد</subtitle>
+    <link href="https://4rs.nl/tags/ldhk-lstn-y/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://4rs.nl"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-13T00:00:00+00:00</updated>
+    <id>https://4rs.nl/tags/ldhk-lstn-y/atom.xml</id><entry xml:lang="ar">
+        <title>أضرار البرمجة بمساعدة الذكاء الاصطناعي</title>
+        <published>2024-04-13T00:00:00+00:00</published>
+        <updated>2024-04-13T00:00:00+00:00</updated>
+        <author>
+            <name>عويتب</name>
+        </author>
+        <link rel="alternate" href="https://4rs.nl/b/harmful-effect-of-ai-in-programming/" type="text/html"/>
+        <id>https://4rs.nl/b/harmful-effect-of-ai-in-programming/</id>
+        <summary type="html">وجهة نظري عن استخدام الذكاء الاصطناعي اثناء البرمجة</summary>
+        </entry>
+</feed>

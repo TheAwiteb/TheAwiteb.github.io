@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "pfdintextuniversal-regular-1";
+    src: url(fonts/Vazirmatn-Regular.ttf) format("truetype");
+}
+
+* {
+    font-family: "pfdintextuniversal-regular-1" !important;
+}
+
+body,
+html {
+    background: #0f1315 !important;
+}
+
+::selection {
+    background: #16222d !important;
+    color: #e0e0e0 !important;
+}
+
+p {
+    code {
+        background: #1a2127 !important;
+        color: #488bc9;
+    }
+}
+
+pre {
+    background: #121920 !important;
+}
+
+a.card {
+    background: #151a1d !important;
+}
+
+a.card:hover {
+    background: #1a2127 !important;
+}
+
+.cards .card:hover .card-description {
+    color: #D4D4D4 !important;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #bbb7b7;
+}
+
+p {
+    color: #d3d3d3;
+}
+
+a {
+    color: #436b8c;
+}
+
+a:hover {
+    color: #325069;
+    background-color: #0f1315;
+}
+
+img#banner-home-img {
+    padding: 0.3rem;
+}
