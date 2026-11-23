@@ -1,0 +1,16 @@
+{
+  "names": {
+    "_": "00000001505e7e48927046e9bbaa728b1f3b511227e2200c578d6e6bb0c77eb9"
+  },
+  "relays": {
+    "00000001505e7e48927046e9bbaa728b1f3b511227e2200c578d6e6bb0c77eb9": [
+      "wss://nostr.4rs.nl",
+      "wss://relay.primal.net",
+      "wss://nos.lol",
+      "wss://nostr.mom",
+      "wss://relay.damus.io",
+      "wss://nostr.oxtr.dev",
+      "wss://pyramid.fiatjaf.com"
+    ]
+  }
+}
